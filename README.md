@@ -1,3 +1,2 @@
 # Demo-Shreya
-This is my first Git repository.
-/n shreyanshee singh
+This is my first Git repository.<br> shreyanshee singh
